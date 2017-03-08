@@ -1,0 +1,408 @@
+{
+
+  "name": "Mamad Purbo",
+
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.4.0"
+  },
+
+  "info": {
+    "label": "Full Stack Software Engineer",
+    "characterClass": "Programmer",
+    "brief": "Over twenty years of hands-on experience in all stages of software development and administration. Wrote 20+ iOS/Android apps and many web applications. Experienced in designing and implementing backend REST/web APIs including databases, managing server side scalability, and administering server infrastructure. Comfortable with spatial data processing and particularly experienced in location based systems.\nI am very passionate about writing beautiful code, exploring latest methodologies, and actively contribute to open source projects.",
+    "image": "http://graph.facebook.com/v2.8/655762098/picture?type=large",
+    "quote": "Nothing endures but change."
+  },
+
+  "contact": {
+    "website": "http://mamad.purbo.org/",
+    "email": "m.purbo@gmail.com",
+    "other": [
+      {
+        "label": "Personal Email",
+        "flavor": "email",
+        "value": "m.purbo@gmail.com"
+      }
+    ]
+  },
+
+  "social": [
+
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "mpurbo",
+      "url": "https://github.com/mpurbo"
+    },
+
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "user": "purubo",
+      "url": "https://twitter.com/purubo"
+    },
+
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "user": "mamad-purbo",
+      "url": "https://www.linkedin.com/in/mamad-purbo/"
+    },
+
+    {
+      "label": "Facebook",
+      "network": "Facebook",
+      "user": "mamad.purbo",
+      "url": "https://www.facebook.com/mamad.purbo"
+    }
+
+  ],
+
+  "projects": [
+
+    {
+      "title": "The Happiness Planner",
+      "category": "commercial",
+      "role": "lead developer",
+      "url": "https://app.thehappinessplanner.com/",
+      "start": "2016-06",
+      "description": "A calendar & to-do list app designed to help you cultivate happiness by embracing the power of positive thinking, mindfulness, gratitude, and self-development.",
+      "summary": "A calendar & to-do list app",
+      "keywords": ["iOS", "Swift", "Firebase"],
+      "media": [
+        {
+          "category": "download",
+          "url": "https://itunes.apple.com/us/app/id1187036654"
+        }
+      ]
+    },
+
+
+    {
+      "title": "MMPReactiveCoreLocation",
+      "category": "FOSS",
+      "role": "owner",
+      "url": "https://github.com/mpurbo/MMPReactiveCoreLocation",
+      "start": "2014-04",
+      "repo": "https://github.com/mpurbo/MMPReactiveCoreLocation",
+      "description": "A reactive CoreLocation wrapper for use with ReactiveCocoa.",
+      "keywords": ["Objective-C", "ReactiveCocoa", "iOS", "MacOS"],
+      "media": [
+        {
+          "category": "download",
+          "url": "https://github.com/mpurbo/MMPReactiveCoreLocation/releases"
+        }
+      ]
+    }
+
+  ],
+
+  "employment": {
+
+    "summary": "20+ years experinece in IT industry and software development.",
+
+    "history": [
+
+      {
+        "employer": "MapMotion, K.K.",
+        "url": "http://www.mapmotion.jp/",
+        "position": "CTO",
+        "summary": "Responsible for the whole technical aspects of product development and delivery.",
+        "start": "2013-09",
+        "keywords": ["Swift","Objective-C","Java","Android","Python","AWS","JavaScript","AngularJS","PostgreSQL","RabbitMQ","Firebase","Linux"],
+        "highlights": ["Design, develop, maintain and operate PaaS product.", "Oversee the development of custom mobile and web apps for clients."]
+      },
+
+      {
+        "employer": "MapMotion, K.K.",
+        "url": "http://www.mapmotion.jp/",
+        "position": "Senior Software Engineer",
+        "summary": "Technical lead role on numerous projects.",
+        "start": "2008-03",
+        "end": "2013-08",
+        "keywords": ["Objective-C","Java","J2ME","JavaScript","PostgreSQL","Linux"]
+      },
+
+      {
+        "employer": "Media-Trust, K.K.",
+        "position": "Senior Software Engineer",
+        "summary": "Senior developer with heavy code responsibilities.",
+        "start": "2008-02",
+        "end": "2004-03",
+        "keywords": ["Java","PHP","PostgreSQL","MySQL","JavaScript","Linux","Windows"]
+      },
+
+      {
+        "employer": "APAS, Inc.",
+        "position": "Technical Lead",
+        "summary": "Leading a team of developer to build and maintain map server product.",
+        "start": "2000-04",
+        "end": "2004-09",
+        "keywords": ["Java","Oracle","JavaScript","C++","Linux","Windows"]
+      },
+
+      {
+        "employer": "APAS, Inc.",
+        "position": "Senior Software Engineer",
+        "summary": "Senior developer with heavy code responsibilities.",
+        "start": "1999-04",
+        "end": "2000-03",
+        "keywords": ["Java","Oracle","JavaScript","Linux","SunOS","Windows"]
+      },
+
+      {
+        "employer": "Bandung Institute of Technology",
+        "position": "Software Engineer",
+        "summary": "Developing various systems for various industries.",
+        "start": "1995-01",
+        "end": "1999-03",
+        "keywords": ["Java","Oracle","JavaScript","Linux","SunOS","Windows"]
+      }
+
+    ]
+
+  },
+
+  "education": {
+
+    "summary": "",
+
+    "level": "degree",
+
+    "degree": "B.E.",
+
+    "history": [
+
+      {
+        "institution": "Bandung Institute of Technology",
+        "title": "B.E.",
+        "url": "https://www.itb.ac.id/",
+        "start": "1999-06",
+        "end": "2005-05"
+      }
+    ]
+
+  },
+
+  "skills": {
+
+    "sets": [
+      {
+        "name": "Smartphone app development",
+        "level": "advanced",
+        "skills": [
+          "Objective-C", "Swift", "Java (Android)"
+        ]
+      },
+      {
+        "name": "Web",
+        "level": "advanced",
+        "skills": [
+          "JavaScript", "HTML 5", "CSS", "REST", "WebSocket"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "advanced",
+        "skills": [
+          "Node.js", "AngularJS", "jQuery", "Bootstrap", "React.js"
+        ]
+      },
+      {
+        "name": "Server",
+        "level": "advanced",
+        "skills": [
+          "Java", "Spring Framework", "Python", "Django", "PHP"
+        ]
+      },      
+      {
+        "name": "Database",
+        "level": "advanced",
+        "skills": [
+          "PostgreSQL", "MySQL", "Oracle", "DynamoDB", "Hibernate"
+        ]
+      },
+      {
+        "name": "Geospatial data processing",
+        "level": "advanced",
+        "skills": [
+          "PostGIS", "GDAL/OGR", "QuantumGIS"
+        ]
+      },
+      {
+        "name": "Cloud/Infrastructure",
+        "level": "advanced",
+        "skills": [
+          "AWS", "EC2", "RDS", "S3", "DynamoDB", "Firebase", "Linux", "RabbitMQ"
+        ]
+      }
+    ],
+
+    "list": [
+      {
+        "name": "Java",
+        "summary": "Knowledgeable about the ins and outs of Java language, server-side and Android libraries, JVM optimization. Being kept updated with the latest developments (generics, lambda, etc.)",
+        "level": "advanced",
+        "years": 18
+      },
+      {
+        "name": "Swift",
+        "summary": "Has been actively using Swift since its early days.",
+        "level": "advanced",
+        "years": 3
+      },      
+      {
+        "name": "Objective-C",
+        "level": "advanced",
+        "years": 8
+      },
+      {
+        "name": "JavaScript",
+        "level": "advanced",
+        "years": 16
+      },
+      {
+        "name": "SQL",
+        "level": "advanced",
+        "years": 22
+      },
+      {
+        "name": "Python",
+        "summary": "",
+        "level": "intermediate",
+        "years": 5
+      },
+      {
+        "name": "PHP",
+        "level": "intermediate",
+        "years": 5
+      },
+      {
+        "name": "C/C++",
+        "level": "intermediate",
+        "years": 5
+      },
+      {
+        "name": "C#",
+        "level": "beginner",
+        "years": 1
+      },
+      {
+        "name": "Scala",
+        "level": "beginner",
+        "years": 1
+      },
+      {
+        "name": "Haskell",
+        "level": "beginner",
+        "years": 1
+      },
+      {
+        "name": "Spring Framework",
+        "level": "advanced",
+        "years": 13
+      },
+      {
+        "name": "AngularJS",
+        "level": "intermediate",
+        "years": 3
+      },
+      {
+        "name": "React.js",
+        "level": "beginner",
+        "years": 1
+      },
+      {
+        "name": "jQuery",
+        "level": "advanced",
+        "years": 9
+      },
+      {
+        "name": "Bootstrap",
+        "level": "advanced",
+        "years": 4
+      },
+      {
+        "name": "HTML",
+        "level": "advanced",
+        "years": 20
+      },
+      {
+        "name": "CSS",
+        "level": "advanced",
+        "years": 15
+      },
+      {
+        "name": "Amazon Web Services (AWS)",
+        "level": "intermediate",
+        "years": 6
+      },
+      {
+        "name": "Firebase",
+        "level": "advanced",
+        "years": 1
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "advanced",
+        "years": 14
+      },
+      {
+        "name": "Oracle RDBMS",
+        "level": "intermediate",
+        "years": 8
+      },
+      {
+        "name": "MySQL",
+        "level": "intermediate",
+        "years": 8
+      },
+      {
+        "name": "RabbitMQ",
+        "level": "intermediate",
+        "years": 6
+      }
+    ]
+  },
+
+  "languages": [
+    {
+      "language": "Indonesian",
+      "level": "Native"
+    },
+    {
+      "language": "English",
+      "level": "Fluent",
+      "years": 20
+    },
+    {
+      "language": "Japanese",
+      "level": "Business",
+      "years": 10
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "drawing",
+      "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
+      "keywords": [ "mystery", "Agatha Christie", "John Grisham" ]
+    },
+    {
+      "name": "reading",
+      "summary": "Jane is a fan of mystery novels and courtroom dramas including Agatha Christie and John Grisham.",
+      "keywords": [ "mystery", "Agatha Christie", "John Grisham" ]
+    },
+    {
+      "name": "cooking",
+      "summary": "Jane enjoys hiking, light mountain climbing, and has four summits under her belt!"
+    },
+    {
+      "name": "capoeira",
+      "summary": "Jane enjoys hiking, light mountain climbing, and has four summits under her belt!"
+    }
+  ]
+
+
+}
